@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Alex workspace\\E20\\Ranger-GigHub\\Ranger-GigHub\\Ranger-GigHub.csproj",
+      "projectUniqueName": "C:\\Alex workspace\\Ranger-GigHub\\Ranger-GigHub\\Ranger-GigHub.csproj",
       "projectName": "Ranger-GigHub",
-      "projectPath": "C:\\Alex workspace\\E20\\Ranger-GigHub\\Ranger-GigHub\\Ranger-GigHub.csproj",
+      "projectPath": "C:\\Alex workspace\\Ranger-GigHub\\Ranger-GigHub\\Ranger-GigHub.csproj",
       "packagesPath": "C:\\Users\\acueto\\.nuget\\packages\\",
-      "outputPath": "C:\\Alex workspace\\E20\\Ranger-GigHub\\Ranger-GigHub\\obj\\",
+      "outputPath": "C:\\Alex workspace\\Ranger-GigHub\\Ranger-GigHub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\acueto\\AppData\\Roaming\\NuGet\\NuGet.Config",

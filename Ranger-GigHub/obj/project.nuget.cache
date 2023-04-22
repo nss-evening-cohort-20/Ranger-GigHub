@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "92Cxe78jh4a1+GcdH3xaHWk5DiZUa6dS7+alFJpC5fjs5U0J3mYmVYbGd68L+pK2IwiMnKh6KNyw66uX4s+G0g==",
+  "dgSpecHash": "k5vK+DSfuTUvib/nhZ166nVELXCg5meUpb3vNoqTKlZPeLTTgA/iPv8A+/ll1At8EN6wDNhZ2zCFwk2eSrHk7g==",
   "success": true,
-  "projectFilePath": "C:\\Alex workspace\\E20\\Ranger-GigHub\\Ranger-GigHub\\Ranger-GigHub.csproj",
+  "projectFilePath": "C:\\Alex workspace\\Ranger-GigHub\\Ranger-GigHub\\Ranger-GigHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acueto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\acueto\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
